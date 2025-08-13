@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0898-transpose-matrix) |
