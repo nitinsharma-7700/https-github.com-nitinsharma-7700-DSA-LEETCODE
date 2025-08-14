@@ -5,7 +5,7 @@ public:
         int start=0,end=address.size()-1;
         while(start<=end){
             if(address[start]=='.'){
-               s=s+"[.]";
+               s.append("[.]");
                 
             }
             else s.push_back(address[start]);
