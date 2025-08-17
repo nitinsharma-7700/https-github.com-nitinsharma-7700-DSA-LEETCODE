@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0169-majority-element) |
 | [1970-sorting-the-sentence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
