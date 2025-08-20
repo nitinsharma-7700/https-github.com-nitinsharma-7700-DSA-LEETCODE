@@ -7,7 +7,8 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
-            else if(nums[mid]>=nums[0]){
+            else if(nums[mid]>=nums[0]){//yha par mid num[0] se bda ha to start se lekar  
+                                         // mid tak sabhi ascending order me hoge     
                 if(target>=nums[start] && target<nums[mid]){
                     end=mid-1;
                 }
@@ -16,7 +17,8 @@ public:
                 
             }
             else {
-                if(nums[mid]<target && target<=nums[end]){
+                if(nums[mid]<target && target<=nums[end]){// yha par mid se lekar end tak sabhi
+                                                         // ascending order me hoge
                     start=mid+1;
                 }
                  else end=mid-1;
