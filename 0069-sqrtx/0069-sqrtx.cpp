@@ -1,10 +1,10 @@
 class Solution {
 public:
     int mySqrt(int n) {
-        // if(n<2){
-        //     return n;
-        // }
-        int ans=0, start=1,end=n;
+        if(n<2){
+            return n;
+        }
+        int ans=0, start=1,end=n/2;
         while(start<=end){
             long mid=start+(end-start)/2;
             if(mid*mid==n){
