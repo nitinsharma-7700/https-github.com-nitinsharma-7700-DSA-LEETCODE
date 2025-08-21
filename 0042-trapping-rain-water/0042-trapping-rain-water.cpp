@@ -1,7 +1,7 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int max1=-1;
+        
         int tallest_index=0;
         for(int i=1;i<height.size();i++){
            if(height[i]>height[tallest_index]){
