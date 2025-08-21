@@ -14,14 +14,14 @@ public:
         int i=1;
         while(i<tallest_index){
             left_max=max(left_max,height[i]);
-            water_store+=max(0,left_max-height[i]);
+            water_store+=left_max-height[i];
             i++;
         }
         int right_max=height[height.size()-1];
         int j=height.size()-2;
         while(j>tallest_index){
             right_max=max(right_max,height[j]);
-           water_store+=max(0,right_max-height[j]);
+           water_store+=right_max-height[j];
             j--;
         }
         return water_store;
