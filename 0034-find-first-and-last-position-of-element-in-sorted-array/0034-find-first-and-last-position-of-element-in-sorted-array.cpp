@@ -6,8 +6,8 @@ public:
         while(start<=end){
             int mid=start+(end-start)/2;
             if(nums[mid]==target){
-                first=mid;
                 end=mid-1;
+                first=mid; // kya pta isse phle phi same no present ho
 
             }
             else if(nums[mid]<target){
@@ -21,7 +21,7 @@ public:
             int mid=start+(end-start)/2;
             if(nums[mid]==target){
                 last=mid;
-                start=mid+1;
+                start=mid+1; //kua pta iske baad bhi same number present ho
 
             }
             else if(nums[mid]<target){
