@@ -10,8 +10,9 @@ public:
 
             // Handle duplicates
             if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
-                left++;
-                right--;
+                left++;  // in this case n={1,0,1,1,1,1} when mid=1 so we both esle if and else
+                         // condition execute 
+               right--;
             }
             // Left half is sorted
             else if (nums[left] <= nums[mid]) {
