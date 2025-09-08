@@ -61,6 +61,7 @@
 | [0263-ugly-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0507-perfect-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
