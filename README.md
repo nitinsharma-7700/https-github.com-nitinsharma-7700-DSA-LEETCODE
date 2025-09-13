@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -49,6 +50,7 @@
 | [0242-valid-anagram](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
