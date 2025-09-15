@@ -52,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 ## String Matching
 |  |
 | ------- |
