@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -140,6 +141,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
