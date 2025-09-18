@@ -119,6 +119,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
