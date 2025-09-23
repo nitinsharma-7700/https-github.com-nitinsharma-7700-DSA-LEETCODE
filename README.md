@@ -61,6 +61,7 @@
 | [0389-find-the-difference](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -160,4 +161,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
