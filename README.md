@@ -52,6 +52,7 @@
 | [0088-merge-sorted-array](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0268-missing-number) |
@@ -95,6 +97,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nitinsharma-7700/https-github.com-nitinsharma-7700-DSA-LEETCODE/tree/master/0326-power-of-three) |
